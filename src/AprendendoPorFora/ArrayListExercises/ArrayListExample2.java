@@ -1,4 +1,4 @@
-package AprendendoPorFora;
+package AprendendoPorFora.ArrayListExercises;
 
 import java.io.BufferedReader;
 import java.io.IOException;

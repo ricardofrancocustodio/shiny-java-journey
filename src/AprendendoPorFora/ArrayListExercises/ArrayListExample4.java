@@ -1,9 +1,9 @@
-package AprendendoPorFora;
+package AprendendoPorFora.ArrayListExercises;
 
 import java.util.ArrayList;
 
 //Write a Java program to remove the third element from a array list.
-public class ArraylistExample4 {
+public class ArrayListExample4 {
 
     public static void main(String[] args) {
 

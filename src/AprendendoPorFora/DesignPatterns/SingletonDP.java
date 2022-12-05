@@ -1,4 +1,4 @@
-package AprendendoPorFora;
+package AprendendoPorFora.DesignPatterns;
 
 public class SingletonDP {
 

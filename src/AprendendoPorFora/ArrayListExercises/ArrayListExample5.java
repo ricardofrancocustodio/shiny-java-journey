@@ -1,4 +1,4 @@
-package AprendendoPorFora;
+package AprendendoPorFora.ArrayListExercises;
 
 import java.util.ArrayList;
 
@@ -18,6 +18,7 @@ public class ArrayListExample5 {
             list.add("Joana");
             list.add("Maria");
             list.add("Jo");
+
 
         if(list.contains("Jo")){
             System.out.println("Element found on the list");
