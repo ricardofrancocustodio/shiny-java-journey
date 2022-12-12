@@ -1,0 +1,226 @@
+
+1h
+
+I think that this website have a lot of information -> https://www.w3resource.com/java-exercises/collection/java-collection-exercise-7.php
+https://www.cs.virginia.edu/~evans/cs205/guides/java/
+
+java Modifiers (https://www.javatpoint.com/access-modifiers) (https://www.geeksforgeeks.org/access-and-non-access-modifiers-in-java/)
+Final keyword (https://www.geeksforgeeks.org/final-keyword-in-java/)
+switch case (https://www.baeldung.com/java-switch)
+try catch (https://www.w3schools.com/java/java_try_catch.asp) (https://www.devmedia.com.br/blocos-try-catch/7339)
+
+Arrays (https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+Array int (exercicios)
+Overloading X Overriding (https://www.google.com/search?q=overloading+and+overriding&oq=over&aqs=chrome.1.69i57j35i39l2j0i67j69i65j69i60l3.2703j0j7&sourceid=chrome&ie=UTF-8)
+Constructor Overloading (https://www.upgrad.com/blog/constructor-overloading-in-java/#:~:text=Constructor%20overloading%20in%20Java%20refers,a%20different%20list%20of%20arguments.)
+			(https://www.javatpoint.com/constructor-overloading-in-java)
+
+principio da substituição
+https://www.codejava.net/java-core/collections/generics-with-subtyping-and-the-substitution-principle
+
+Java Basics - https://beginnersbook.com/java-tutorial-for-beginners-with-examples/
+
+------------------------------
+1h 
+
+OOP (https://www3.ntu.edu.sg/home/ehchua/programming/java/j3f_oopexercises.html)
+
+ OK - Criar class Retangle
+ OK- Criar class Employee
+ OK - Criar class InvoiceItem
+ OK - Criar class Account 
+ Ok - Criar Date Class
+ OK - Criar class The Time Class
+ OK - Criar class Ball
+
+
+*Composition*
+ OK - Criar class Author
+ OK - Criar class Book
+ OK - Criar The Author and Book Classes Again - An Array of Objects as an Instance Variable
+
+- Criar The Customer and Invoice classes
+- Criar The Ball and Player Classes
+
+- Criar The MyPoint Class
+- Criar The MyLine and MyPoint Classes
+- Criar The MyTriangle and MyPoint Classes
+- Criar The The MyComplex class
+- Criar The MyPolynomial Class
+- Criar The The MyTime Class
+- Criar The The MyDate Class
+- Criar Bouncing Balls - Ball and Container Classes
+
+
+*Inheritance exercises*
+- An Introduction to OOP Inheritance by Example - The Circle and Cylinder Classes
+- Superclass Person and its subclasses
+- Point2D and Point3D
+- Point and MovablePoint
+- Superclass Shape and its subclasses Circle, Rectangle and Square
+- Superclass Animal and its subclasses
+
+
+*Exercises on Composition vs Inheritance*
+- The Point and Line Classes
+- The Circle and Cylinder Classes Using Composition
+
+
+*Exercises on Polymorphism, Abstract Classes and Interfaces*
+- Abstract Superclass Shape and Its Concrete Subclasses
+- GeometricObject Interface and its Implementation Classes Circle and Rectangle
+- Movable Interface and its Implementation MovablePoint Class
+- Movable Interface and its Implementation Classes MovablePoint and MovableCircle
+- Interfaces Resizable and GeometricObject
+- Abstract Superclass Animal and its Implementation Subclasses
+- Another View of Abstract Superclass Animal and its Implementation Subclasses
+- Interface Movable and its implementation subclasses MovablePoint and MovableCircle
+
+
+*Exercises on OOP*
+- The Discount System
+- Polyline of Points with ArrayList
+
+
+*Exercises on Data Structures*
+- MyIntStack
+
+Learn Java (https://www3.ntu.edu.sg/home/ehchua/programming/)
+
+Object-oriented Programming (OOP) Basics (https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
+
+OOP - Java Wrapping Up (https://www3.ntu.edu.sg/home/ehchua/programming/java/J3c_OOPWrappingUp.html)
+
+OOP - Java Basics - (https://www3.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html)
+
+OOP - Composition, Inheritance & Polymorphism (https://www3.ntu.edu.sg/home/ehchua/programming/java/J3b_OOPInheritancePolymorphism.html)
+
+-----------------------------------
+
+1h
+Katas
+(exercises)
+-----------------------------------
+
+1h
+Design patterns
+(Theory and Exercises)
+
+-----------------------------------
+
+1h 
+Data structures
+(Theory and Exercises)
+
+-----------------------------------
+
+1h 
+Algorhytms (https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+(Theory and Exercises)
+
+-----------------------------------
+
+30 min
+Cracking the code interview
+
+-----------------------------------
+
+30 min
+Clean Code
+
+-----------------------------------
+
+1h 
+Database SQL
+PL/SQL
+(Theory and Exercises)
+https://www.w3resource.com/sql-exercises/sql-joins-exercises.php
+https://www.w3resource.com/sql-exercises/sql-subqueries-exercises.php
+
+-----------------------------------
+
+(HABILIDADE DE MEMORIZAÇÃO)
+
+
+Ternary Operator:
+https://tech.io/playgrounds/172/ternary-operator?utm_source=codingame&utm_medium=details-page&utm_campaign=puzzle-to-playground&utm_content=onboarding
+https://www.programiz.com/java-programming/ternary-operator
+https://www.softwaretestinghelp.com/ternary-operator-in-java/
+https://www.geeksforgeeks.org/java-ternary-operator-with-examples/
+https://www.baeldung.com/java-ternary-operator
+
+
+Java Lists
+(https://www.digitalocean.com/community/tutorials/java-list)
+(https://www.w3resource.com/java-exercises/collection/index.php)
+(https://gyansetu-core-java-for-java.gitbook.io/project/untitled-1/creating-and-using-list-set-and-deque-implementations/arraylist)
+
+
+Java Collections
+(https://personales.unican.es/corcuerp/java/Labs/LAB_17.htm)
+(https://www.w3resource.com/java-exercises/collection/index.php)
+(https://web.mit.edu/6.005/www/fa15/classes/02-basic-java/)
+
+
+Java read string 
+- substring
+split
+replace
+
+
+
+Design Patterns
+	- Singleton
+	- Factory
+
+Diferença entre Overloading X Overriding
+ OK - Overloading - the same method name can have different implementations (versions) > having different signatures in the same class
+ OK - Overriding - the signature of the method is the same on parent/super class and child class (different implementations)
+	- 
+
+O que é uma Abstract Class
+ - exemplos
+ - exercícios 
+	- 
+
+O que é uma Interface
+ - exemplos
+ - exercícios
+	- 
+
+Selenium
+	- Implicit Wait
+	- Explicit Wait
+	- Hooks
+	- Smoke Test X Regression Test
+	- Xpath X Css Locators
+	- Assert X Verify
+	- Page Object Model
+	- What selenium doesn't do
+
+Cucumber
+ - What is it?
+ - exemplos
+ - exercícios
+
+
+Database:
+ - exemplos
+ - exercícios
+	- Selects using (having X where)
+	- Inner join X Left join X Right join
+	- Select with groupBy
+	- 
+
+Testing
+	- Difference WhiteBox X BlackBox Testing
+	- Severity X Priority
+		example low severity, high priority (mistype in a text. For the client cab be high priority to fix that bug, but the impact is the system is low);
+		example high severity, low priority(Access to an external API - the impact on the system is very high but the priority to fix that connection bug can be low)
+	- 
+
+
+
+
+
+
