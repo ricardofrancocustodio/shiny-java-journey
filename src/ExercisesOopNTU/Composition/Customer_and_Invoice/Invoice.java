@@ -7,7 +7,7 @@ public class Invoice {
     private double amount;
 
     public Invoice(int id, Customer customer, double amount){
-        this.id             =  id;
+        this.id             = id;
         this.customer       = customer;
         this.amount         = amount;
 
@@ -38,7 +38,10 @@ public class Invoice {
     }
 
     public double getAmountAfterDiscount(){
-        return getAmount() - customer.getDiscount();
+        double amount_div_percent   = getAmount() / 100;
+        double discount_div         = this.customer.getDiscount() * amount_div_percent;
+
+          return this.amount - discount_div;
     }
 
     public void setCustomer(Customer customer){
@@ -50,7 +53,7 @@ public class Invoice {
     }
 
     public String toString(){
-        return "Invoice[id=" + id + ",  customer=" + customer.getName() + " (id=" + customer.getId() + ", discount=" + getCustomerDiscount() + ", amount" + amount + "]";
+        return "Invoice[id=" + id + ", amount=" + amount + " customer=" + customer.getName() + "(id=" + customer.getId() + ", discount=" + getCustomerDiscount() + ")]";
     }
 
 }

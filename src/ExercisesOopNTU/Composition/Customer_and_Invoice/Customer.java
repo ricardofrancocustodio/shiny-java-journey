@@ -7,7 +7,9 @@ public class Customer {
     private int discount; //in percent
 
     public Customer(int id, String name, int discount){
-
+        this.id         = id;
+        this.name       = name;
+        this.discount   = discount;
     }
 
     public int getId(){
@@ -27,13 +29,7 @@ public class Customer {
     }
 
     public String toString(){
-        return "name("+ id +")(discount "+ discount +" in %)";
+        return "name("+ name +") id("+ id +") discount("+ discount +"%)";
     }
-
-
-
-
-
-
 
 }

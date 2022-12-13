@@ -1,6 +1,4 @@
-package ExercisesOopNTU;
-
-import org.w3c.dom.css.Rect;
+package ExercisesOopNTU.OnClasses;
 
 public class TestRectangle {
 

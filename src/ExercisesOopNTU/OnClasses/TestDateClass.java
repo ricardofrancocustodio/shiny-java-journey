@@ -1,6 +1,4 @@
-package ExercisesOopNTU;
-
-import java.util.Date;
+package ExercisesOopNTU.OnClasses;
 
 public class TestDateClass {
 

@@ -1,4 +1,4 @@
-package ExercisesOopNTU;
+package ExercisesOopNTU.OnClasses;
 
 public class TestTimeClass {
 
