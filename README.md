@@ -3,6 +3,8 @@
 ORIENTED-OBJECT PROGRAMMING
 
    * Recursions are also one of the most powerful techniques to solve linked lists and binary tree-based problems because both linked lists and binary trees are recursive data structures. 
+   
+   * String questions, Array-based problems, linked list algorithms, binary tree algorithms, and dynamic programming-based coding problems are good candidates for Recursion in Java. 
 
 Read more: https://www.java67.com/2021/07/recursion-programming-exercises-in-java.html
 
