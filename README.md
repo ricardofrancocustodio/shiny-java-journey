@@ -42,3 +42,6 @@ Read more: https://www.java67.com/2021/07/recursion-programming-exercises-in-jav
     * OOP Composition
         - Is a design technique to implement a HAS-A relationship between objects
         - Person has-a Id card, has-a SSN, has-a job, has-a car etc.
+        
+    * Need to know how to reverse a linked list
+    * Need to know how to invert a binary tree
